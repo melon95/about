@@ -1,4 +1,4 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falexcarpenter%2Fnextjs-mdx-blog-theme)
+[![Deploy with Vercel](https://vercel.com/button)](<https://vercel.com/new/clone?repository-url=[https://github.com/melon95/about](https://github.com/melon95/about)>)
 
 # nextjs-mdx-blog-theme
 
